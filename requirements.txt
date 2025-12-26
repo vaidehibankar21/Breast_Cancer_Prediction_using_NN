@@ -1,0 +1,6 @@
+streamlit>=1.30.0
+tensorflow==2.20.0
+numpy>=1.26,<2.1
+pandas
+Pillow
+scikit-learn
